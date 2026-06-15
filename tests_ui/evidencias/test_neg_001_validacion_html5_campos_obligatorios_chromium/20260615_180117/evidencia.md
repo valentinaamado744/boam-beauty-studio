@@ -1,0 +1,14 @@
+# Evidencia: test_neg_001_validacion_html5_campos_obligatorios[chromium]
+
+- Test: `test_neg_001_validacion_html5_campos_obligatorios[chromium]`
+- Fecha y hora: 2026-06-15 18:01:17
+- Resultado: `passed`
+
+## Screenshots
+
+- `test_neg_001_validacion_html5_campos_obligatorios_chromium_paso_01_nombre_requerido_20260615_180118.png`
+- `test_neg_001_validacion_html5_campos_obligatorios_chromium_paso_02_telefono_requerido_20260615_180120.png`
+- `test_neg_001_validacion_html5_campos_obligatorios_chromium_paso_03_servicio_requerido_20260615_180121.png`
+- `test_neg_001_validacion_html5_campos_obligatorios_chromium_paso_04_fecha_requerida_20260615_180121.png`
+- `test_neg_001_validacion_html5_campos_obligatorios_chromium_paso_05_hora_requerida_20260615_180122.png`
+- `test_neg_001_validacion_html5_campos_obligatorios_chromium_resultado_passed_20260615_180117.png`
